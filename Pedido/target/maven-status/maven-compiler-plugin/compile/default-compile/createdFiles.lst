@@ -1,0 +1,8 @@
+com\felipe\pedido\Observer.class
+com\felipe\pedido\PedidoObserver.class
+com\felipe\pedido\EmailService.class
+com\felipe\pedido\Main.class
+com\felipe\pedido\Pedido.class
+com\felipe\pedido\PedidoSubject.class
+com\felipe\pedido\EstoqueService.class
+com\felipe\pedido\Subject.class
